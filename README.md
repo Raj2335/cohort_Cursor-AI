@@ -1,5 +1,7 @@
 # Project Setup
 
+🌐 **Live Demo:** https://cohort-cursor-ai.vercel.app/
+
 ## How to Open This Project
 
 ### Method 1: Open in Browser
